@@ -1,0 +1,8 @@
+.error {
+  border: 6px solid rgb(114, 43, 43);
+  padding: 10px;
+  margin: 10px 0;
+  background-color: rgb(215, 240, 212);
+  color: rgb(150, 24, 24);
+  font-size: 24px;
+}
